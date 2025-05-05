@@ -1,0 +1,105 @@
+/* Dark Theme Styles for MessageInput Component */
+.message-input-container {
+    padding: 16px;
+    width: 100%;
+  }
+  
+  .message-input-image-preview {
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .message-input-image-wrapper {
+    position: relative;
+  }
+  
+  .message-input-image {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 1px solid #444; /* Dark border color */
+  }
+  
+  .message-input-remove-image-btn {
+    position: absolute;
+    top: -6px;
+    right: -6px;
+    width: 20px;
+    height: 20px;
+    background-color: #333; /* Dark background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .message-input-remove-image-icon {
+    color: #f0f0f0;
+    font-size: 14px;
+  }
+  
+  .message-input-form {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  
+  .message-input-text-file {
+    display: flex;
+    gap: 12px;
+    flex-grow: 1;
+  }
+  
+  .message-input-text {
+    width: 100%;
+    padding: 8px 12px;
+    background-color: #333; /* Dark background for input */
+    color: #f0f0f0; /* Light text color */
+    border: 1px solid #444;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+  
+  .message-input-file {
+    display: none;
+  }
+  
+  .message-input-file-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    background-color: #444; /* Dark background for button */
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .message-input-file-btn.active {
+    color: #4caf50; /* Green color when an image is previewed */
+  }
+  
+  .message-input-send-btn {
+    padding: 8px;
+    background-color: #444;
+    color: #f0f0f0;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .message-input-send-btn:disabled {
+    background-color: #555; /* Darker background when disabled */
+    cursor: not-allowed;
+  }
+  
+  .message-input-send-btn:hover:not(:disabled) {
+    background-color: #333; /* Darker hover effect */
+  }
+  

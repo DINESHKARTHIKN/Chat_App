@@ -1,0 +1,59 @@
+/* Dark Theme */
+.homepage-container {
+    height: 100vh;
+    background-color: #2d2d2d; /* Dark background */
+    color: #f0f0f0; /* Light text */
+  }
+  
+  .homepage-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px; /* pt-20 */
+    padding-left: 16px; /* px-4 */
+    padding-right: 16px; /* px-4 */
+  }
+  
+  .homepage-card {
+    background-color: #1a1a1a; /* Dark card background */
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 960px; /* max-w-6xl */
+    height: calc(100vh - 8rem); /* h-[calc(100vh-8rem)] */
+  }
+  
+  .homepage-inner-wrapper {
+    display: flex;
+    height: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  
+  /* Sidebar and components styling (optional) */
+  .homepage-sidebar {
+    background-color: #222222; /* Slightly lighter dark for sidebar */
+    width: 300px;
+    padding: 16px;
+  }
+  
+  .homepage-chat-container {
+    flex-grow: 1;
+    background-color: #121212; /* Very dark background for chat container */
+    padding: 20px;
+  }
+  
+  .homepage-no-chat {
+    color: #bbb;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  
+  /* Additional text and element styling for dark theme */
+  .homepage-text-light {
+    color: #e0e0e0;
+  }
+  
+  .homepage-text-muted {
+    color: #888;
+  }
+  

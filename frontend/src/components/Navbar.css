@@ -1,0 +1,116 @@
+/* Dark Theme for Navbar Component */
+.navbar-container {
+    background-color: rgba(34, 34, 34, 0.8); /* Semi-transparent dark background */
+    border-bottom: 1px solid #333;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 40;
+    backdrop-filter: blur(10px); /* Blurring the background */
+  }
+  
+  .navbar-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 64px;
+    padding: 0 16px;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+  }
+  
+  .navbar-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: opacity 0.3s;
+  }
+  
+  .navbar-logo:hover {
+    opacity: 0.8;
+  }
+  
+  .navbar-logo-icon {
+    width: 36px;
+    height: 36px;
+    background-color: rgba(0, 102, 255, 0.1); /* Light blue background for icon */
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar-logo-svg {
+    width: 20px;
+    height: 20px;
+    color: #0066ff; /* Blue color for the icon */
+  }
+  
+  .navbar-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #f0f0f0; /* Light text for title */
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .navbar-profile-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background-color: transparent;
+    color: #f0f0f0;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .navbar-profile-btn:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Dark hover effect */
+  }
+  
+  .navbar-profile-icon {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .navbar-profile-text {
+    font-size: 14px;
+  }
+  
+  .navbar-logout-btn {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    background-color: transparent;
+    color: #f0f0f0;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .navbar-logout-btn:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Dark hover effect */
+  }
+  
+  .navbar-logout-icon {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .navbar-logout-text {
+    font-size: 14px;
+  }
+  
