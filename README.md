@@ -15,6 +15,22 @@ A real-time full-stack chat application built using the **MERN stack** (MongoDB,
 
 ---
 
+## 📸 Screenshots
+
+### Signup Page
+![Signup Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20184532.png?raw=true)
+
+### Login Page
+![Login Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20184543.png?raw=true)
+
+### Profile Page
+![Profile Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20185303.png?raw=true)
+
+### Chat Page
+![Chat Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20185723.png?raw=true)
+
+---
+
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend
@@ -105,24 +121,8 @@ npm run dev
 
 ```bash
 cd client
-npm start
+npm run dev
 ```
-
----
-
-## 📸 Screenshots
-
-### Signup Page
-![Signup Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20184532.png?raw=true)
-
-### Login Page
-![Login Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20184543.png?raw=true)
-
-### Profile Page
-![Profile Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20185303.png?raw=true)
-
-### Chat Page
-![Chat Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20185723.png?raw=true)
 
 
 ---
