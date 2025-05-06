@@ -19,23 +19,35 @@ A real-time full-stack chat application built using the **MERN stack** (MongoDB,
 
 ### 🖥️ Frontend
 - **React**
+
+### 🌐 Backend
+- **Node.js**
+- **Express**
+
+### 🗄️ Database
+- **MongoDB**
+- **Cloudinary** (for image storage)
+
+---
+
+## 🛠️ Libraries
+
+### Frontend Libraries
 - **React Router DOM**
 - **Axios**
 - **Zustand**
 - **Lucide React**
 - **React Hot Toast**
 
-### 🌐 Backend
-- **Node.js**
-- **Express**
-- **Mongoose**
-- **Socket.io**
-- **dotenv**
-- **jsonwebtoken**
-- **bcryptjs**
-- **cookie-parser**
-- **cloudinary**
-- **cors**
+### Backend Libraries
+- **Mongoose** (for MongoDB interactions)
+- **Socket.io** (for real-time messaging)
+- **dotenv** (for environment variables)
+- **jsonwebtoken** (for JWT authentication)
+- **bcryptjs** (for password hashing)
+- **cookie-parser** (for handling cookies)
+- **cloudinary** (for image uploading)
+- **cors** (for Cross-Origin Resource Sharing)
 
 ---
 
