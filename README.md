@@ -100,7 +100,7 @@ npm start
 
 ## 📸 Screenshots
 
-*Add screenshots of your app here if available.*
+https://github.com/DINESHKARTHIKN/Chat_App/blob/86b02065ae97dbedf44bbfbc551699f5967f66dd/Images/Screenshot%202025-05-06%20184532.png
 
 ---
 
