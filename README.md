@@ -33,11 +33,11 @@ A real-time full-stack chat application built using the **MERN stack** (MongoDB,
 ## 🛠️ Libraries
 
 ### Frontend Libraries
-- **React Router DOM**
-- **Axios**
-- **Zustand**
-- **Lucide React**
-- **React Hot Toast**
+- **React Router DOM** (for navigation and routing between different pages)
+- **Axios** (for making HTTP requests to the backend)
+- **Zustand** (for state management and storing application data globally)
+- **Lucide React** (for providing icons to enhance UI)
+- **React Hot Toast** (for showing toast notifications on the client)
 
 ### Backend Libraries
 - **Mongoose** (for MongoDB interactions)
