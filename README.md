@@ -100,7 +100,18 @@ npm start
 
 ## 📸 Screenshots
 
-https://github.com/DINESHKARTHIKN/Chat_App/blob/86b02065ae97dbedf44bbfbc551699f5967f66dd/Images/Screenshot%202025-05-06%20184532.png
+### Signup Page
+![Signup Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20184532.png?raw=true)
+
+### Login Page
+![Login Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20184543.png?raw=true)
+
+### Profile Page
+![Profile Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20185303.png?raw=true)
+
+### Chat Page
+![Chat Page](https://github.com/DINESHKARTHIKN/Chat_App/blob/main/Images/Screenshot%202025-05-06%20185723.png?raw=true)
+
 
 ---
 
